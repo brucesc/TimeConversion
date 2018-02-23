@@ -1,0 +1,6 @@
+C:\repos\Hackerrank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe.config
+C:\repos\Hackerrank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe
+C:\repos\Hackerrank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.pdb
+C:\repos\Hackerrank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.csproj.CoreCompileInputs.cache
+C:\repos\Hackerrank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.exe
+C:\repos\Hackerrank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.pdb
